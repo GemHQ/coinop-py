@@ -19,7 +19,7 @@ setup(name='coinop',
           'PyYAML',
           'future',
           'ecdsa',
-          'PyNaCl==0.3.0'
+          'PyNaCl==1.6.2'
       ],
       tests_require = [ 'tox' ],
       zip_safe=False)
